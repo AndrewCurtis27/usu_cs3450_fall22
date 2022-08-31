@@ -41,7 +41,7 @@ X   Nathan Poulson
 X   Justin Roylance
 X   Trevis Slagowski
 X   Dylan Spencer
-X   Bryson Steck
+Bryson Steck (Bryson)
 X   Caleb Syndergaard
 X   Emily Thomas
 X   Jacob Thompson
