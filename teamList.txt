@@ -6,7 +6,7 @@ X   Keldon Boehmer
 X   Calvin Clark
 X   Jason Crandall
 X   Dalyn Dalton
-X   Ben Decker
+Ben Decker (Ben)
 X   Landon Doyle
 X   Wesley Edwards
 X   Jacob Fitzgerald
