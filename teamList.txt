@@ -5,7 +5,7 @@ X   John Belnap
 X   Keldon Boehmer
 X   Calvin Clark
 X   Jason Crandall
-X   Dalyn Dalton
+Dalyn Dalton (Dalyn)
 X   Ben Decker
 X   Landon Doyle
 X   Wesley Edwards
