@@ -2,7 +2,7 @@ X   Isaac Airmet
 X   Abbey Allen
 X   Reagan Baxter
 X   John Belnap
-X   Keldon Boehmer
+Keldon Boehmer (Keldon)
 X   Calvin Clark
 X   Jason Crandall
 X   Dalyn Dalton
