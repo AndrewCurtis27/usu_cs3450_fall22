@@ -1,0 +1,3 @@
+Name: Kyle McMullin
+Favorite coding environment: Visual Studio with Vim plugin
+Favorite language: JavaScript
