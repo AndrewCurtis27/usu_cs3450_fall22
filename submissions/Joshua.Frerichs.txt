@@ -1,0 +1,3 @@
+Name: Joshua Frerichs
+Favorite coding environment: Linux Ubuntu using VIM as editor
+Favorite language: Python or C++
