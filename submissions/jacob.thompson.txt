@@ -1,0 +1,3 @@
+name = Jacob Thompson
+coding_env = NVIM
+lang = TypeScript

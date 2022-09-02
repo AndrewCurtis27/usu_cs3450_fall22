@@ -1,0 +1,3 @@
+Name: Brayden Hill
+Favorite Enviroment: VSCode / Jetbrains language specific IDE.
+Favorite Language: Typescript 
