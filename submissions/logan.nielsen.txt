@@ -1,0 +1,3 @@
+Name: Logan Nielsen
+Favorite coding environment: VS Code
+Favorite language: Hard to say because it depends on what I'm doing, but Kotlin is pretty cool
