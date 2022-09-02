@@ -1,0 +1,3 @@
+my name is Trenton Peters
+my preferred coding environment is VScode, but a lot of times it doesn't auto install dependencies as well as intellij does
+to be honest, my favorite language is probably kotlin. It has the object oriented nature of java without the awful syntax and boilerplate
