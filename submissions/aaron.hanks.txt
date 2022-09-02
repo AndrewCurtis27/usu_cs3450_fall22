@@ -1,0 +1,3 @@
+Name: Aaron Hanks
+Favorite Coding Environment: in the command line/shell, but i'm starting to really like VS Code
+Favorite Language: Java
