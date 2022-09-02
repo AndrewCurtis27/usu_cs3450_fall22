@@ -1,0 +1,6 @@
+Wesley Edwards
+
+My favorite code environment is Visual Studio Code.
+
+My favorite coding language is Kotlin.
+
