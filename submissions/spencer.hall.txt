@@ -1,0 +1,3 @@
+Name: Spencer R. Hall
+Favorite Environment: VS Code
+Favorite Language: Kotlin
