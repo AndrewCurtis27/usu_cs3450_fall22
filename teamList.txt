@@ -1,26 +1,26 @@
 X   Isaac Airmet
 X   Abbey Allen
 X   Reagan Baxter
-X   John Belnap
+John Belnap (John)
 X   Keldon Boehmer
 X   Calvin Clark
 X   Jason Crandall
 X   Dalyn Dalton
-X   Ben Decker
 Landon Doyle (Landon)
-X   Wesley Edwards
+Ben Decker (Ben)
+Wesley Edwards (Wesley)
 X   Jacob Fitzgerald
 X   Joshua Frerichs
 X   Spencer Hall
 X   Aaron Hanks
 X   Hamilton Hardy
 X   Caden Harris
-X   Zach Harrison
+Zach Harrison (Zach)
 X   Geoffrey Haselden
 X   Brayden Hill
 X   Jared Horton
 X   Maris Hurst
-X   Jason Jackson
+Jason Jackson
 X   Zach Jordan
 X   Jensen Judkins
 X   Noah Knight
@@ -33,20 +33,20 @@ X   Joshua McClung
 X   Kyle McMullin
 X   Kollin Murphy
 X   Andre Nguyen
-X   Logan Nielsen
+Logan Nielsen
 X   Levi Nielson
 X   Trenton Peters
-X   Spencer Peterson
+Spencer Peterson (Spencer)
 X   Nathan Poulson
 X   Justin Roylance
 X   Trevis Slagowski
-X   Dylan Spencer
+Dylan Spencer (Dylan)
 X   Bryson Steck
 X   Caleb Syndergaard
 X   Emily Thomas
-X   Jacob Thompson
+Jacob Thompson (Jacob)
 X   Gabe Tonks
 X   Tyler Totsch
 X   Kevin Vulcano
-X   Carson Wallace
+Carson Wallace
 X   Andrew Wilkinson
