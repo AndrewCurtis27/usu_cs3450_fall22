@@ -1,0 +1,3 @@
+Caleb Syndergaard (A02268117)
+Favorite Environment: VS Code with VIM plugin
+Favorite Language: Kotlin

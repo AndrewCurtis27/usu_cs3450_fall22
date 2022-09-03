@@ -1,0 +1,3 @@
+Name: Noah Knight
+Favorite Coding Environment: I like many of them.  VS Code, Pycharm, and IntelliJ are a few
+Favorite Language:  Either JavaScript or Portuguese!

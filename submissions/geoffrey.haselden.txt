@@ -1,0 +1,5 @@
+Name: Geoffrey Haselden
+
+Favourite Coding Environment: Visual Studio/VS Code or IntelliJ
+
+Favourite Language: Right now, kotlin - it's a nice mix of java and python

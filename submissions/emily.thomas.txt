@@ -1,0 +1,3 @@
+Name: Emily Thomas
+Coding Environment: I like the macOS terminal and the JetBrains IDE's
+Language: Java
