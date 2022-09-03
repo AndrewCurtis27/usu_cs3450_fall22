@@ -4,7 +4,7 @@ X   Reagan Baxter
 X   John Belnap
 X   Keldon Boehmer
 X   Calvin Clark
-X   Jason Crandall
+Jason Crandall (Jason)
 X   Dalyn Dalton
 X   Ben Decker
 X   Landon Doyle
