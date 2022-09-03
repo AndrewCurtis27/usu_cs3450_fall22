@@ -24,11 +24,11 @@ Colt Kraczek (Colt)
 Noah Knight ( Noah )
 Zach Jordan (Zach)
 Jason Jackson
-Jensen Judkins
-X   Gavin Lalliss
+Jensen Judkin
 Spencer Lingwall (Spencer)
+Gavin Lalliss (Gavin)
 X   Curtis Liu
-X   Shelby Marcarian
+Shelby Marcarian (Shelby)
 Trenton Peters (Trenton)
 Levi Nielson (Levi)
 Kyle McMullin (Kyle)
@@ -43,7 +43,7 @@ Trevis Slagowski (Trevis)
 Bryson Steck (Bryson)
 Dylan Spencer (Dylan)
 Caleb Syndergaard (Caleb)
-X   Emily Thomas
+Emily Thomas (Emily)
 Tyler Totsch (Tyler)
 Gabe Tonks (Gabe)
 Jacob Thompson (Jacob)
